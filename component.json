@@ -1,0 +1,12 @@
+{
+    "name": "has",
+    "description": "Object.prototype.hasOwnProperty.call shortcut",
+    "repos": "https://github.com/tarruda/has.git",
+    "main": "src/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "function-bind": "^1.0.2"
+    },
+    "version": "1.0.1"
+}
